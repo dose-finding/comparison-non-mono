@@ -15,11 +15,27 @@ crm_main_functions.R
 
 The file uploads the functions required to run the CRM design using CRM-Run.R
 
+The code uses the functions defined in R-package dfcomb by Ken Cheung that could be downloaded using the link below
+https://cran.r-project.org/web/packages/dfcrm/index.html
+
 # POCRM
 
 pocrm_main_functions.R
 
 The file uploads the functions required to run the POCRM design using POCRM-Run.R
+The code uses the functions defined in R-package dfcomb by Ken Cheung that could be downloaded at
+https://cran.r-project.org/web/packages/dfcrm/ and R-package pocrm by Nolan Wages that could be downloaded at https://cran.r-project.org/web/packages/pocrm/
+
+# mTPI
+
+mtpi_main_functions.R
+
+The file uploads the functions required to run the mTPI design using mtpi-Run.R
+The code uses the functions downloaded from MD Anderson Software Kiosk at https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline
+
+mtpi_Run.R
+
+The file implements the mTPI design and provide its operating characteristics.
 
 
 # NMA
