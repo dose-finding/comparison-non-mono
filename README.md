@@ -31,11 +31,17 @@ https://cran.r-project.org/web/packages/dfcrm/ and R-package pocrm by Nolan Wage
 mtpi_main_functions.R
 
 The file uploads the functions required to run the mTPI design using mtpi-Run.R
-The code uses the functions downloaded from MD Anderson Software Kiosk at https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline
+The code uses the functions downloaded from MD Anderson Software Kiosk at https://biostatistics.mdanderson.org/SoftwareDownload
 
 mtpi_Run.R
 
 The file implements the mTPI design and provide its operating characteristics.
+
+# BOIN
+
+boin_Run.R
+
+The file uploads the required functions and implements the BOIN design. The code uses the functions downloaded from MD Anderson Software Kiosk at https://biostatistics.mdanderson.org/SoftwareDownload
 
 
 # NMA
