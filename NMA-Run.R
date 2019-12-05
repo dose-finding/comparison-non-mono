@@ -31,7 +31,7 @@ true<-c(0.05,0.1,0.2,0.45,0.3,0.7)      # Scenario 3.3
 # true<-c(0.01,0.05,0.10,0.45,0.25,0.60)  # Scenario 8.3
 # true<-c(0.01,0.05,0.08,0.10,0.25,0.45)  # Scenario 9.1
 # true<-c(0.01,0.05,0.08,0.25,0.10,0.45)  # Scenario 9.2
-
+ 
 
 set.seed(123)
 trial<-nma.design(P=true, # scenario
