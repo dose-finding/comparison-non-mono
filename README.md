@@ -1,5 +1,3 @@
-# comparison-non-mono
-
 The codes in this repository can be used to reproduce the results in the paper
 
 # A comparison of Phase I dose finding designs in clinical trials with monotonicity assumption violation
