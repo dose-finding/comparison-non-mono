@@ -9,11 +9,24 @@ Maintainer: Pavel Mozgunov
 Five dose-finding designs are considered and implemented
 
 
+# CRM
+
+crm_main_functions.R
+
+The file uploads the functions required to run the CRM design using CRM-Run.R
+
+# POCRM
+
+pocrm_main_functions.R
+
+The file uploads the functions required to run the POCRM design using POCRM-Run.R
+
+
 # NMA
 
 NMA-Main-Code.R
 
-The file uploads the functions required to run the design using NMA-Run.R
+The file uploads the functions required to run the NMA design using NMA-Run.R
 
 NMA-Run.R
 
