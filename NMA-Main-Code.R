@@ -32,7 +32,7 @@ which.second.max<-function(x){n<-length(x)
 which.third.max<-function(x){n<-length(x)
   y<-which(x==sort(x,partial=n-2)[n-2])
   return(y)}
-
+ 
 prob.loss<-function(x){h<-length(x)
   y1<-1/x
   if (any(y1==Inf)){
