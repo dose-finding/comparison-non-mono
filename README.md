@@ -18,7 +18,7 @@ https://cran.r-project.org/web/packages/dfcrm/index.html
 
 CRM-Run.R
 
-The file implements the CRM design and provide its operating characteristics.
+The file implements the CRM design and provides its operating characteristics.
 
 
 
@@ -30,6 +30,11 @@ The file uploads the functions required to run the POCRM design using POCRM-Run.
 The code uses the functions defined in R-package dfcomb by Ken Cheung that could be downloaded at
 https://cran.r-project.org/web/packages/dfcrm/ and R-package pocrm by Nolan Wages that could be downloaded at https://cran.r-project.org/web/packages/pocrm/
 
+POCRM-Run.R
+
+The file implements the POCRM design and provides its operating characteristics.
+
+
 # mTPI
 
 mtpi_main_functions.R
@@ -39,7 +44,7 @@ The code uses the functions downloaded from MD Anderson Software Kiosk at https:
 
 mtpi_Run.R
 
-The file implements the mTPI design and provide its operating characteristics.
+The file implements the mTPI design and provides its operating characteristics.
 
 # BOIN
 
@@ -56,6 +61,6 @@ The file uploads the functions required to run the NMA design using NMA-Run.R
 
 NMA-Run.R
 
-The file implements the NMA design and provide its operating characteristics.
+The file implements the NMA design and provides its operating characteristics.
 
 
