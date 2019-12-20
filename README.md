@@ -48,7 +48,7 @@ The file implements the mTPI design and provides its operating characteristics.
 
 # BOIN
 
-boin_Run.R
+BOIN-Run.R
 
 The file uploads the required functions and implements the BOIN design. The code uses the functions downloaded from MD Anderson Software Kiosk at https://biostatistics.mdanderson.org/SoftwareDownload
 
