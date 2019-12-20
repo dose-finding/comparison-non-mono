@@ -42,7 +42,7 @@ mTPI-Main-Code.R
 The file uploads the functions required to run the mTPI design using mtpi-Run.R
 The code uses the functions downloaded from MD Anderson Software Kiosk at https://biostatistics.mdanderson.org/SoftwareDownload
 
-mtpi_Run.R
+mTPI-Run.R
 
 The file implements the mTPI design and provides its operating characteristics.
 
