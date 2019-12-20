@@ -50,6 +50,4 @@ set.seed(2306) ; crm.s83 <- bcrm.sim(pI=p83 , p.skel=getprior(0.05,0.30,2,6), ta
 set.seed(2306) ; crm.s91 <- bcrm.sim(pI=p91 , p.skel=getprior(0.05,0.30,2,6), target=0.30, cohortsize=3,ncohort=10, start.comb=2, conf.level=0.80, mu=0, scale=0.75, ntrial=10000)
 set.seed(2306) ; crm.s92 <- bcrm.sim(pI=p92 , p.skel=getprior(0.05,0.30,2,6), target=0.30, cohortsize=3,ncohort=10, start.comb=2, conf.level=0.80, mu=0, scale=0.75, ntrial=10000)
 
-# Printing the Results as in Table 1
-kable(report(crm.s1,"CRM"),row.names = F)
-kable(report(crm.s1,"CRM"),row.names = F, format="latex")
+crm.s1
