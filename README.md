@@ -24,7 +24,7 @@ The file implements the CRM design and provide its operating characteristics.
 
 # POCRM
 
-pocrm_main_functions.R
+POCRM-Main-Code.R
 
 The file uploads the functions required to run the POCRM design using POCRM-Run.R
 The code uses the functions defined in R-package dfcomb by Ken Cheung that could be downloaded at
