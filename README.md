@@ -4,19 +4,23 @@ The codes in this repository can be used to reproduce the results in the paper
 
 by R. Abbas, C.Rossoni, T. Jaki, X. Paoletti, and P. Mozgunov (2020)
 
-Maintainer: Pavel Mozgunov
-
 Five dose-finding designs are considered and implemented
 
 
 # CRM
 
-crm_main_functions.R
+CRM-Main-Code.R
 
 The file uploads the functions required to run the CRM design using CRM-Run.R
 
 The code uses the functions defined in R-package dfcomb by Ken Cheung that could be downloaded using the link below
 https://cran.r-project.org/web/packages/dfcrm/index.html
+
+CRM-Run.R
+
+The file implements the CRM design and provide its operating characteristics.
+
+
 
 # POCRM
 
